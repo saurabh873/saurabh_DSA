@@ -1,6 +1,6 @@
 class Solution {
   public:
-    // Function to find equilibrium point in the array.
+    
     int findEquilibrium(vector<int> &arr) {
        int left=0;
        int right=0;
